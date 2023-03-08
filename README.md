@@ -1,4 +1,4 @@
-# NodeJS Boilerplate
+# My Api GPT
 
 ## Installation
 
